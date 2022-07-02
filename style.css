@@ -7,7 +7,7 @@
 }
 
 .box{
-    border: 2px solid hsl(316, 50%, 24%);
+    border: 2px solid rgb(173, 207, 159);
     width: 800px;
     height: 400px;
     position: absolute;
