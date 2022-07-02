@@ -11,6 +11,7 @@ const multiplyBtn = document.getElementById('multiply');
 //Divide Button
 const divideBtn = document.getElementById('divide');
 
+//Result
 const resultOut = document.getElementById('ans')
 
 //Calculate Program
@@ -32,6 +33,7 @@ multiplyBtn.addEventListener('click', calculateMultiplication)
 
 calculateMultiplication();
 
+//Division
 divideBtn.addEventListener('click', calculateDivison);
 
 calculateDivison();
