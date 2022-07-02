@@ -14,3 +14,9 @@ const calculateMultiplication = () =>{
    const multiply = firstNum.value * secondNum.value
     resultOut.innerHTML = `${multiply}`
 }   
+
+//Division
+const calculateDivison = () => {
+    const divide = firstNum.value / secondNum.value
+    resultOut.innerHTML = `${divide}`
+}
