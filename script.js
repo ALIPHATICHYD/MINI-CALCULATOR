@@ -20,3 +20,9 @@ const calculateDivison = () => {
     const divide = firstNum.value / secondNum.value
     resultOut.innerHTML = `${divide}`
 }
+
+//Event Listeners
+//Multiplication
+multiplyBtn.addEventListener('click', calculateMultiplication)
+
+calculateMultiplication();
