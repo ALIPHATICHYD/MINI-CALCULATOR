@@ -26,3 +26,7 @@ const calculateDivison = () => {
 multiplyBtn.addEventListener('click', calculateMultiplication)
 
 calculateMultiplication();
+
+divideBtn.addEventListener('click', calculateDivison);
+
+calculateDivison();
