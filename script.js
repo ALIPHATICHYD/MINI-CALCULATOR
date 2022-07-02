@@ -1,4 +1,5 @@
 //Assigning ID's to their functions
+
 //First Label
 const firstNum = document.getElementById('1st');
 
@@ -15,6 +16,7 @@ const divideBtn = document.getElementById('divide');
 const resultOut = document.getElementById('ans')
 
 //Calculate Program
+
 //Multiplication
 const calculateMultiplication = () =>{
    const multiply = firstNum.value * secondNum.value
@@ -28,6 +30,7 @@ const calculateDivison = () => {
 }
 
 //Event Listeners
+
 //Multiplication
 multiplyBtn.addEventListener('click', calculateMultiplication)
 
