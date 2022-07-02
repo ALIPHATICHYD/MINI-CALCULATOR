@@ -5,3 +5,13 @@
     font-weight: bolder;
     font-size: xx-large;
 }
+
+.box{
+    border: 2px solid hsl(316, 50%, 24%);
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    padding: 25px;
+}
