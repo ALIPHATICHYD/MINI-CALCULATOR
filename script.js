@@ -8,6 +8,7 @@ const secondNum = document.getElementById('2nd');
 //Multiply Button
 const multiplyBtn = document.getElementById('multiply');
 
+//Divide Button
 const divideBtn = document.getElementById('divide');
 
 const resultOut = document.getElementById('ans')
