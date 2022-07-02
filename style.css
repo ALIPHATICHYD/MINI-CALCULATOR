@@ -24,3 +24,13 @@
     top: 155px;
     cursor: pointer;
 }
+
+.first>input{
+    border-radius: 5px;
+    text-align: right;
+}
+
+.second{
+    position: absolute;
+    padding-top: 10px;
+}
