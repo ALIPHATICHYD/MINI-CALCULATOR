@@ -1,3 +1,5 @@
+//Assigning ID's to their functions
+//First Label
 const firstNum = document.getElementById('1st');
 
 const secondNum = document.getElementById('2nd');
