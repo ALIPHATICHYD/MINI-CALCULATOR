@@ -50,3 +50,8 @@
     left: 200px;
     cursor: pointer;
 }
+
+p{
+    position: absolute;
+    top: 210px;
+}
