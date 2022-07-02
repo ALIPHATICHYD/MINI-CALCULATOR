@@ -34,3 +34,9 @@
     position: absolute;
     padding-top: 10px;
 }
+
+.second>input{
+    margin-left: -10px;
+    border-radius: 5px
+ 
+}
