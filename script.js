@@ -5,6 +5,7 @@ const firstNum = document.getElementById('1st');
 //Second Label
 const secondNum = document.getElementById('2nd');
 
+//Multiply Button
 const multiplyBtn = document.getElementById('multiply');
 
 const divideBtn = document.getElementById('divide');
