@@ -2,6 +2,7 @@
 //First Label
 const firstNum = document.getElementById('1st');
 
+//Second Label
 const secondNum = document.getElementById('2nd');
 
 const multiplyBtn = document.getElementById('multiply');
