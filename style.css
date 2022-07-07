@@ -40,3 +40,8 @@
     padding-top: 45px;
     color: rgb(148, 180, 159);
 }
+
+.second>label{
+    position: relative;
+    left: -10px;
+}
