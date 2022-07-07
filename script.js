@@ -12,6 +12,9 @@ const multiplyBtn = document.getElementById('multiply');
 //Divide Button
 const divideBtn = document.getElementById('divide');
 
+//Subtract Button
+
+
 //Result
 const resultOut = document.getElementById('ans')
 
