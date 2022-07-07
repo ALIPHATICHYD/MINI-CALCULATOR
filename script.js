@@ -49,3 +49,8 @@ calculateMultiplication();
 divideBtn.addEventListener('click', calculateDivison);
 
 calculateDivison();
+
+//Subtraction
+subBtn.addEventListener('click', calculateSubtraction);
+
+calculateSubtraction();
