@@ -5,3 +5,10 @@
     font-weight: bolder;
     font-size: xx-large;
 }
+
+.box{
+    border: 5px solid rgb(223, 120, 97);
+    border-radius: 10px;
+    background-color: rgb(236, 179, 144);
+    width: 800px;
+    height: 400px;
