@@ -23,3 +23,9 @@
     left: 20px;
     color: rgb(148, 180, 159);
 }
+
+.first>input{
+    border-radius: 5px;
+    border: 2px solid rgb(223, 120, 97);
+    text-align: right;
+    position: relative;
