@@ -81,13 +81,7 @@
     cursor: pointer;
 }
 
-p{
-    position: absolute;
-    top: 310px;
-    left: 250px;
-    color: rgb(148, 180, 159);
-}
-
+/* Subtract Button */
 .sub{
     color: rgb(148, 180, 159);
     background-color: rgb(252, 248, 232);
@@ -98,3 +92,11 @@ p{
     left: 330px;
     cursor: pointer;
 }
+
+p{
+    position: absolute;
+    top: 310px;
+    left: 250px;
+    color: rgb(148, 180, 159);
+}
+
