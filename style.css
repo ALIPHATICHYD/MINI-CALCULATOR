@@ -33,3 +33,10 @@
     background-color: rgb(252, 248, 232);
     left: 10px;
 }
+
+.second{
+    position: relative;
+    left: 30px;
+    padding-top: 45px;
+    color: rgb(148, 180, 159);
+}
