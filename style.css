@@ -17,3 +17,9 @@
     left: 250px;
     padding: 25px;
 }
+
+.first{
+    position: relative;
+    left: 20px;
+    color: rgb(148, 180, 159);
+}
