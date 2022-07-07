@@ -82,3 +82,9 @@ p{
     left: 250px;
     color: rgb(148, 180, 159);
 }
+
+.sub{
+    color: rgb(148, 180, 159);
+    background-color: rgb(252, 248, 232);
+    border: 2px solid rgb(223, 120, 97);
+    border-radius: 5px;
