@@ -75,3 +75,7 @@
     left: 550px;
     cursor: pointer;
 }
+
+p{
+    position: absolute;
+    top: 310px;
