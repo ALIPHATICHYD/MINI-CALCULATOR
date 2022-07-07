@@ -45,3 +45,11 @@
     position: relative;
     left: -10px;
 }
+
+.second>input{
+    color: rgb(148, 180, 159);
+    margin-left: -10px;
+    border-radius: 5px;
+    border: 2px solid rgb(223, 120, 97);
+    background-color: rgb(252, 248, 232);
+}
