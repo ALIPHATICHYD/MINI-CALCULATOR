@@ -32,6 +32,12 @@ const calculateDivison = () => {
     resultOut.innerHTML = `${divide}`
 }
 
+//Subtract
+const calculateSubtraction = () => {
+    const Subtract = firstNum.value - secondNum.value
+    resultOut.innerHTML = `${Subtract}`
+}
+
 //Event Listeners
 
 //Multiplication
