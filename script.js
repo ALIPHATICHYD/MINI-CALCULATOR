@@ -13,7 +13,7 @@ const multiplyBtn = document.getElementById('multiply');
 const divideBtn = document.getElementById('divide');
 
 //Subtract Button
-
+const subBtn = document.getElementById('sub');
 
 //Result
 const resultOut = document.getElementById('ans')
