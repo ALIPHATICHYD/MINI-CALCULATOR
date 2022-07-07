@@ -29,3 +29,7 @@
     border: 2px solid rgb(223, 120, 97);
     text-align: right;
     position: relative;
+    color: rgb(148, 180, 159);
+    background-color: rgb(252, 248, 232);
+    left: 10px;
+}
