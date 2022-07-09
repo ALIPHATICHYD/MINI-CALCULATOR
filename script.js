@@ -66,3 +66,5 @@ calculateSubtraction();
 
 //Addition
 addBtn.addEventListener('click', calculateAddition);
+
+calculateAddition();
