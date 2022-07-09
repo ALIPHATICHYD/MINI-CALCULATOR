@@ -63,3 +63,6 @@ calculateDivison();
 subBtn.addEventListener('click', calculateSubtraction);
 
 calculateSubtraction();
+
+//Addition
+addBtn.addEventListener('click', calculateAddition);
