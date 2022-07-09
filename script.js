@@ -15,6 +15,9 @@ const divideBtn = document.getElementById('divide');
 //Subtract Button
 const subBtn = document.getElementById('sub');
 
+// Add Button
+const addBtn = document.getElementById('add');
+
 //Result
 const resultOut = document.getElementById('ans')
 
