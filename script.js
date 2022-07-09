@@ -41,6 +41,9 @@ const calculateSubtraction = () => {
     resultOut.innerHTML = `${Subtract}`
 }
 
+//Addition
+const calculateAddition = () =>
+
 //Event Listeners
 
 //Multiplication
