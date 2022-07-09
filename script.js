@@ -42,7 +42,10 @@ const calculateSubtraction = () => {
 }
 
 //Addition
-const calculateAddition = () =>
+const calculateAddition = () => {
+    const Add = firstNum.value - secondNum.value
+    resultOut.innerHTML = `${Add}`
+}
 
 //Event Listeners
 
