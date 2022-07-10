@@ -43,7 +43,7 @@ const calculateSubtraction = () => {
 
 //Addition
 const calculateAddition = () => {
-    const Add = firstNum.value - secondNum.value
+    const Add = firstNum.value + secondNum.value
     resultOut.innerHTML = `${Add}`
 }
 
